@@ -1,0 +1,18 @@
+node_modules/*
+.env
+.env.production
+.env.local
+ormconfig.json
+.DS_Store
+dist/
+
+# Serverless directories
+.serverless
+
+# esbuild directories
+.esbuild
+
+# Dynamodb directory
+.dynamodb
+db/
+cdata/
