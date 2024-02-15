@@ -59,7 +59,7 @@ lambda-serverless-node-typescript-aws/
 │   ├── services/          # Helper services
 │   └── utils/             # Utility functions
 │
-├── serverless.yml         # Serverless Framework configuration
+├── serverless.ts         # Serverless Framework configuration
 ├── tsconfig.json          # TypeScript configuration
 └── README.md              # Project README file
 ```
